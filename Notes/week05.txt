@@ -1,0 +1,5 @@
+Homework: Good Work
+Lab: Q3 Visualization missing, Q4,Q5,Q6 Code Error and no Findings
+hw: 100
+lab: 20
+
