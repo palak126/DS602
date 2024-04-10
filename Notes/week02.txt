@@ -1,0 +1,5 @@
+Homework Q5 Narration is missing
+Lab Interpretation of code is needed
+
+hw: 95
+lab: 95
