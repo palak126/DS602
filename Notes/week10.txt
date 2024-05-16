@@ -1,0 +1,5 @@
+Homework - Q3,4,5,6 NameError: name 'y_train' is not defined
+Lab - Good work
+
+hw: 25
+lab: 25
